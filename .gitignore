@@ -1,0 +1,11 @@
+**/.ipynb_checkpoints/
+*__pycache__*
+.vscode/
+**/build/
+**/dist/
+**/.bash_history/
+**/.cache/
+**/.ipython/
+**/.local/
+**/.jupyter/
+*.egg-info/
